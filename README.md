@@ -1,3 +1,5 @@
+##PLEASE TAKE A LOOK AT THE [FINISHED RESEARCH PAPER](Optimizing_Strategies_for_Dataset_Construction_in_Training_Intelligent_Bots__A_Comparative_Analysis.pdf) REGARDING THIS PROJECT.
+
 # Schnapsen platform - Project Intelligent Systems 2022-2023
 
 ## Getting started
